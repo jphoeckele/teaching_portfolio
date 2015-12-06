@@ -1,3 +1,7 @@
+#Teaching Prortfolio
+
+This is a site I am creating for an Instructional Specialist at a university in Missouri. It is a portfolio site that consists of basic resume info, some instructional videos, and some sample lessons. I am adding additional material to the site as I receive it and once I have enough I will push the site to it's own domain so that it will be live. No word on when it will be fully finished as that is mostly up to when I receive the info. I will post the link at that time. It currently has a bootstrap theme and I am using a bootstrap slider for a powerpoint presentation. I have also embedded a vimeo video into the site. 
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
 
 [Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
